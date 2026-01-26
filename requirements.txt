@@ -1,0 +1,3 @@
+pycromanager
+numpy
+jupyter
