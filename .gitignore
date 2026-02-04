@@ -120,6 +120,6 @@ dmypy.json
 .pyre/
 
 # Acquisition data
-.tif*
-.npy
+*.tif*
+*.npy
 
