@@ -1,5 +1,5 @@
 
-from AOTF import AOTF64Bit as AOTFclass
+from .AOTF import AOTF64Bit as AOTFclass
 from time import sleep
 
 def AOTF_init():
